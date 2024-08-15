@@ -40,5 +40,8 @@ Topping topping2 = topping.get(i);
 System.out.println(topping2.getId());
 System.out.println(topping2.getType());
 }
+System.out.println("Work done by QA");
+System.out.println("Work completed today");
+
 }
 }
